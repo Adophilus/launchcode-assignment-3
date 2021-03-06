@@ -31,6 +31,8 @@ table.job-listing {
 
 table.job-listing td:first-child {
     font-weight: bold;
+    font-family: "URW Bookman, Light";
+    color: #407987;
 }
 
 table.job-listing td:last-child {
